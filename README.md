@@ -1,4 +1,4 @@
-# ⚒ OBRA CONTROL — Guía de Instalación
+# ⚒ OBRA CONTROL — Guía de Instalación 
 
 ## ¿Qué es esto?
 Sistema web para controlar compras, inventario y bodega en obra.
